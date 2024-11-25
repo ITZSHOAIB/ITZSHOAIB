@@ -8,10 +8,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=ITZSHOAIB&icon=0&color=6)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ITZSHOAIB&theme=radical&hide_border=false)</br>
-![](https://github-contributor-stats.vercel.app/api?username=ITZSHOAIB&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
